@@ -3,7 +3,7 @@ import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 
 export default defineUserConfig({
-  base: "/vuepress-starter/",
+  base: "/Notes/",
   
   host: '127.0.0.1',
   port: 8080,
