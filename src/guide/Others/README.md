@@ -1,5 +1,5 @@
 ---
-title: pdf资料
+title: 其他
 icon: lightbulb
 ---
 
